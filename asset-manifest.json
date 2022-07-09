@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://akshay643.github.io/csb-ty0r32/static/css/main.5c1dad3e.chunk.css",
+    "main.js": "https://akshay643.github.io/csb-ty0r32/static/js/main.445b7ffe.chunk.js",
+    "main.js.map": "https://akshay643.github.io/csb-ty0r32/static/js/main.445b7ffe.chunk.js.map",
+    "runtime-main.js": "https://akshay643.github.io/csb-ty0r32/static/js/runtime-main.6a8c7179.js",
+    "runtime-main.js.map": "https://akshay643.github.io/csb-ty0r32/static/js/runtime-main.6a8c7179.js.map",
+    "static/js/2.fd2b3a68.chunk.js": "https://akshay643.github.io/csb-ty0r32/static/js/2.fd2b3a68.chunk.js",
+    "static/js/2.fd2b3a68.chunk.js.map": "https://akshay643.github.io/csb-ty0r32/static/js/2.fd2b3a68.chunk.js.map",
+    "index.html": "https://akshay643.github.io/csb-ty0r32/index.html",
+    "static/css/main.5c1dad3e.chunk.css.map": "https://akshay643.github.io/csb-ty0r32/static/css/main.5c1dad3e.chunk.css.map",
+    "static/js/2.fd2b3a68.chunk.js.LICENSE.txt": "https://akshay643.github.io/csb-ty0r32/static/js/2.fd2b3a68.chunk.js.LICENSE.txt",
+    "static/media/pic1.e6e84a6e.jpg": "https://akshay643.github.io/csb-ty0r32/static/media/pic1.e6e84a6e.jpg",
+    "static/media/video.f814dd23.mp4": "https://akshay643.github.io/csb-ty0r32/static/media/video.f814dd23.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a8c7179.js",
+    "static/js/2.fd2b3a68.chunk.js",
+    "static/css/main.5c1dad3e.chunk.css",
+    "static/js/main.445b7ffe.chunk.js"
+  ]
+}
